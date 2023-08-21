@@ -1,0 +1,23 @@
+_id: req_8a0a2f3847be4712bc79ccfd598301a0
+type: Request
+parentId: wrk_369e4ece90c74aecb05350ec320e3ba0
+modified: 1692633804081
+created: 1692633800604
+url: https://google.com
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.5
+authentication: {}
+metaSortKey: -1692633800604
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
